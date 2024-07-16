@@ -255,3 +255,49 @@ p:nth-of-type(3) {
 .footer-links ul li a:hover {
     color: #ccc;
 }
+
+
+@media (max-width: 480px) {
+    .container {
+      padding: 0 10px;
+    }
+    .navbar {
+      padding: 5px 0;
+      flex-direction: column;
+      align-items: center;
+    }
+    .nav-links li a {
+      font-size: 14px;
+    }
+    .auth-buttons .btn {
+      padding: 6px 12px;
+      font-size: 14px;
+    }
+    .parallax-1, .parallax-2, .parallax-3, .parallax-4 {
+      height: 30vh;
+    }
+    h1 {
+      font-size: 60px;
+    }
+    h2 {
+      font-size: 18px;
+    }
+    p {
+      font-size: 12px;
+    }
+    /* Additional rules for mobile devices */
+    .navbar {
+      min-height: 50px;
+    }
+    .nav-links {
+      margin-top: 20px;
+    }
+    .nav-links li {
+      margin-bottom: 10px;
+    }
+    .auth-buttons {
+        margin-top: 20px;
+      }
+    }
+      
+  
