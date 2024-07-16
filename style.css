@@ -32,6 +32,12 @@ h1{
     background-position: center;
     background-attachment: fixed;
 }
+.parallax-4{
+    background: url('./assets/judith-browne-RWZUDYp8nEY-unsplash.jpg') no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
 
 
 .parallax-inner{
