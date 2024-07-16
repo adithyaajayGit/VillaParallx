@@ -20,6 +20,12 @@ h1{
     background-position: center;
     background-attachment: fixed;
 }
+.parallax-2{
+    background: url('./assets/aj-alao-cstkc_42P7M-unsplash.jpg') no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
 
 
 .parallax-inner{
@@ -44,3 +50,4 @@ p{
     line-height: 30px;
     margin: 0 50px 40px;
 }
+
