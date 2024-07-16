@@ -26,6 +26,12 @@ h1{
     background-position: center;
     background-attachment: fixed;
 }
+.parallax-3{
+    background: url('./assets/shawnanggg-A7Z5U6LyacA-unsplash.jpg') no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
 
 
 .parallax-inner{
